@@ -1,0 +1,16 @@
+{
+  "name": "ble-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binstring": "^0.2.1",
+    "bleno": "^0.4.2",
+    "noble": "^1.8.1"
+  }
+}
